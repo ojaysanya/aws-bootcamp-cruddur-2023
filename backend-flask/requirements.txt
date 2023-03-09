@@ -10,3 +10,6 @@ aws-xray-sdk
 awscli
 
 watchtower
+
+blinker
+rollbar
